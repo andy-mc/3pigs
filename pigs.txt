@@ -9,3 +9,7 @@ marys-feature
 this is marys feature
 developing in a feature branch
 isolated from the rest of the project
+
+feature2
+^^^^^^^^
+halo soy feature2
