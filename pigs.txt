@@ -14,3 +14,7 @@ feature2
 ^^^^^^^^
 halo soy feature2
 este es mi segundo checkpoint
+
+feature3
+^^^^^^^^
+three
